@@ -9,15 +9,10 @@
 1. [谷歌商店(google play)](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
 2. [https://m3w.cn/nplayer](https://m3w.cn/nplayer)
 
-![]('https://i.niupic.com/images/2021/01/27/9apo.jpg)
+![1](https://i.niupic.com/images/2021/01/27/9apo.jpg)
+![1](https://i.niupic.com/images/2021/01/27/9apn.jpg)
+![1](https://i.niupic.com/images/2021/01/27/9apm.jpg)
+![1](https://i.niupic.com/images/2021/01/27/9app.jpg)
+![1](https://i.niupic.com/images/2021/01/27/9apl.jpg)
 
-<img src='https://i.niupic.com/images/2021/01/27/9apo.jpg' style="display:inline-block;border:1px solid #3cc51f;width:240px;">
-
-<img src='https://i.niupic.com/images/2021/01/27/9apn.jpg' style="display:inline-block;border:1px solid ##3cc51f;width:240px;">
-
-<img src='https://i.niupic.com/images/2021/01/27/9apm.jpg' style="display:inline-block;border:1px solid ##3cc51f;width:240px;">
-
-<img src='https://i.niupic.com/images/2021/01/27/9app.jpg' style="display:inline-block;border:1px solid ##3cc51f;width:240px;">
-
-<img src='https://i.niupic.com/images/2021/01/27/9apl.jpg' style="display:inline-block;border:1px solid ##3cc51f;width:240px;">
 
