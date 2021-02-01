@@ -9,7 +9,8 @@
 1. [谷歌商店(google play)](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
 2. [https://m3w.cn/nplayer](https://m3w.cn/nplayer)
 
-<!-- more -->
+![]('https://i.niupic.com/images/2021/01/27/9apo.jpg)
+
 <img src='https://i.niupic.com/images/2021/01/27/9apo.jpg' style="display:inline-block;border:1px solid #3cc51f;width:240px;">
 
 <img src='https://i.niupic.com/images/2021/01/27/9apn.jpg' style="display:inline-block;border:1px solid ##3cc51f;width:240px;">
