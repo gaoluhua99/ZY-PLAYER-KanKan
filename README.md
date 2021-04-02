@@ -1,6 +1,6 @@
 # 看看视频
 
-## 初学uni-app，由ZY-PLAYER启发，但不是ZY，没有借鉴ZY的任何逻辑代码，目前最新版本使用了 ZY 的源
+## 初学uni-app，由ZY-PLAYER启发，但不是ZY，目前最新版本使用了 ZY 的源
 
 > 后来发现ZY也有APP版
 
