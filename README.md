@@ -14,8 +14,7 @@
 
 #### 下载地址：
 
-1. [谷歌商店(google play)](https://play.google.com/store/apps/details?id=cn.xuehuayu.player)
-2. [https://m3w.cn/nplayer](https://m3w.cn/nplayer)  【包含 安卓 和 IOS TF版】
+[https://m3w.cn/nplayer](https://m3w.cn/nplayer)  【包含 安卓 和 IOS TF版】
 
 <p style="display:flex;">
   <img src='https://i.niupic.com/images/2021/01/27/9apo.jpg' width="200">
