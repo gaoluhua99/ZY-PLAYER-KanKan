@@ -1,6 +1,7 @@
 # 看看
 
-## 初学uni-app，由ZY-PLAYER启发，功能有相似，但不是ZY，目前版本使用了 ZY 的源。【包含 安卓 和 IOS TF版】
+## 初学uni-app，由ZY-PLAYER启发，功能有相似，但不是ZY，目前版本使用了 ZY 的源。
+## 【包含 安卓 和 IOS TF版】
 
 > 后来发现ZY也有APP版
 
