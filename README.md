@@ -1,7 +1,7 @@
 # 看看
 
 ## 由[ZY-PLAYER](https://github.com/cuiocean/ZY-Player)启发，使用 `uni-app` 开发。
-## 【包含 安卓 和 IOS TF版】
+## 【包含 安卓 和 IOS TF版】 IOS版 需 连续点击10次logo激活完整版
 
 #### 免会员，全球剧场， 看视频、可投屏【安卓】，看电视，看小说，看漫画
 
